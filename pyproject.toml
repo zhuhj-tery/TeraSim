@@ -4,10 +4,10 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "terasim"
-version = "2024.05.03.1030"
+version = "0.1.0"
 description = "Generative AV testing environment for unknown unsafe events discovery"
-authors = [ "Haowei Sun <haoweis@umich.edu>", "Haojie Zhu <zhuhj@umich.edu>", "Shuo Feng <fshuo@umich.edu>",]
-license = "CC BY-NC 4.0"
+authors = [ "Haowei Sun <haoweis@umich.edu>", "Haojie Zhu <zhuhj@umich.edu>", "Zhijie Qiao <zhijieq@umich.edu>", "Xintao Yan <xintaoy@umich.edu>", "Shuo Feng <fshuo@umich.edu>",]
+license = "Apache-2.0"
 readme = "README.md"
 
 [tool.poetry.dependencies]
